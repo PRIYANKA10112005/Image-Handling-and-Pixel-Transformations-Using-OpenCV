@@ -402,20 +402,20 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
-   <img width="647" height="518" alt="image" src="https://github.com/user-attachments/assets/ae908291-a1d1-4826-bafe-2458fd81c099" />
+## Read and Display an Image.
+<img width="647" height="518" alt="image" src="https://github.com/user-attachments/assets/ae908291-a1d1-4826-bafe-2458fd81c099" />
 
 
    
  
-- **ii)** Adjust Image Brightness.
-   <img width="1367" height="391" alt="image" src="https://github.com/user-attachments/assets/109d1f78-e920-4ed5-9799-73b04a33959a" />
+## Adjust Image Brightness.
+<img width="1367" height="391" alt="image" src="https://github.com/user-attachments/assets/109d1f78-e920-4ed5-9799-73b04a33959a" />
 
 
    
 
-- **iii)** Modify Image Contrast.
-   <img width="1337" height="387" alt="image" src="https://github.com/user-attachments/assets/a4ef05ad-4ba6-471c-a538-dff9568c2f79" />
+## Modify Image Contrast.
+<img width="1337" height="387" alt="image" src="https://github.com/user-attachments/assets/a4ef05ad-4ba6-471c-a538-dff9568c2f79" />
 
 
    
