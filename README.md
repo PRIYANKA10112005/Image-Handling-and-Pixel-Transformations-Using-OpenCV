@@ -418,9 +418,7 @@ plt.show()
 <img width="1337" height="387" alt="image" src="https://github.com/user-attachments/assets/a4ef05ad-4ba6-471c-a538-dff9568c2f79" />
 
 
-   
-
-- **iv)** Generate Third Image Using Bitwise Operations.
+  
    
 
 ## Result:
